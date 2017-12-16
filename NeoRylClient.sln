@@ -32,7 +32,7 @@ Global
 		Debug_MY|Win32 = Debug_MY|Win32
 		Debug|Win32 = Debug|Win32
 		Release_MY|Win32 = Release_MY|Win32
-		Release_NoGD|Win32 = Release_NoGD|Win32
+		Release_NoGD|Win32 = Release_reregeNoGD|Win32
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
